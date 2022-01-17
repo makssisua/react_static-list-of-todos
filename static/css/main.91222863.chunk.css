@@ -1,0 +1,2 @@
+.info,.todo_completed--true{font-weight:400px;font-size:20px}.todo_completed--true{color:#3a9c2d}.todo_completed--false{color:#911a29}.todo,.todo_completed--false{font-weight:400px;font-size:20px}.todoList{display:flex;flex-direction:column;grid-gap:20px;gap:20px;width:400px;box-sizing:border-box}.todoItem{list-style-type:none;border:3px solid #006eff;padding:20px}
+/*# sourceMappingURL=main.91222863.chunk.css.map */
